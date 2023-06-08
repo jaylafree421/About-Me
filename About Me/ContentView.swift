@@ -33,7 +33,7 @@ struct ContentView: View {
                 Button("Fun facts!") {
                     fact = "I'm half Korean"
                     fact2 = "I have a yellow lab named Winston"
-                    fact3 = "I'm seeing SZA in October!"
+                    fact3 = "I'm seeing SZA in October!!"
                     fact4 = "I play the bass guitar(see above!)"
                     fact5 = "My go-to at Starbucks is a matcha lemonade"
                     
